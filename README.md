@@ -5,7 +5,8 @@
   ![](https://github.com/nanchen2251/CoordinatorAppBarDemo/blob/master/GIF1.gif) 
   ![](https://github.com/nanchen2251/CoordinatorAppBarDemo/blob/master/GIF2.gif) 
   ![](https://github.com/nanchen2251/CoordinatorAppBarDemo/blob/master/GIF3.gif) 
-####[【知识必备】一文让你搞懂design设计的CoordinatorLayout和AppbarLayout联动，让Design设计更简单~](http://www.cnblogs.com/liushilin/p/6170735.html)
+####[【知识必备】一文让你搞懂design设计的CoordinatorLayout和AppbarLayout联动，让Design设计更简单~](http://www.cnblogs.com/liushilin/p/6170735.html) 
+####[欢迎支持楼主开源毕设[前端+后台+文档]](https://github.com/nanchen2251/AiYaSchoolPush)
 ##关于作者
     南尘<br>
     四川成都<br>
