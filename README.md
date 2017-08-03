@@ -1,9 +1,9 @@
 # CoordinatorAppBarDemo
 使用CoordinatorLayout和AppBarLayout做的一款测试Demo
 
-####⊙开源不易，希望给个star或者fork奖励
+#### ⊙开源不易，希望给个star或者fork奖励
 
-##效果图
+## 效果图
   ![](https://github.com/nanchen2251/CoordinatorAppBarDemo/blob/master/GIF1.gif) 
   ![](https://github.com/nanchen2251/CoordinatorAppBarDemo/blob/master/GIF2.gif) 
   ![](https://github.com/nanchen2251/CoordinatorAppBarDemo/blob/master/GIF3.gif) 
